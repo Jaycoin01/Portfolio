@@ -656,5 +656,10 @@ input[type="checkbox"]:checked ~ label:before{
     .contact form{
         flex-direction: column;
     }
+
+     .projects-box{
+        justify-content: center;
+        align-items: center;
+    }
 }
 
